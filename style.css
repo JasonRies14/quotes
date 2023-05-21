@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(100deg, rgb(44, 62, 80), rgb(148, 153, 156), rgb(44, 62, 80));
+    min-height: 100vh;
+}
+
+.headernav {
+    display: flex;
+    justify-content: center;
+}
